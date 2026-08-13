@@ -1,8 +1,10 @@
-# GPU Passthrough On Ubuntu 22.04.2 for Beginners
+# GPU Passthrough On Ubuntu for Beginners
 
-**GPU passthrough with an Intel CPU, AMD GPU, and Asus Motherboard on Ubuntu 22.04.2 LTS. Instructions for other hardware are included but not tested.**
+- This guide was created in May 2023 for Ubuntu 22.04 and has since been updated for Ubuntu 26.04. To access older versions check the Releases or Tags view.
 
-_This guide was created on May 3, 2023 and was last updated on July 7, 2026. In case I forget to change the "last updated" date check the commit history._
+- I have tested these steps with an Intel CPU and with an AMD and Nvidia GPU. I have included instructions for other hardware configurations but haven't tested them myself.
+
+- This guide uses some HTML that GitHub's Markdown viewer doesn't support. For slightly improved formatting, consider viewing this guide in VS Code or some other fuller featured Markdown viewer.
 
 &nbsp;<br />
 &nbsp;
