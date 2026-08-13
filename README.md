@@ -74,12 +74,12 @@ If you must pass an iGPU through to a guest system, good luck. You will likely n
 
 <div style="margin: 4em;"></div>
 
-### My Specific Hardware
+### My System Specifications
 - Intel i9-12900k
-- Asus Prime Z690-P Wifi D4 (BIOS version 2212, release date 2022/12/13)
-- 64 GB of DDR4 4000 CL18 *(oh, for RAM to be affordable again)*
-- Gigabyte Radeon RX 6650 XT
-- Ubuntu 22.04.2 LTS
+- Asus Prime Z690-P D4 (BIOS version 4003)
+- 64 GB of DDR4 RAM *(oh, for RAM to be affordable again)*
+- Gigabyte Radeon RX 6650 XT / ASUS GeForce RTX 3070 OC (I have tested both configurations)
+- Ubuntu 26.04 LTS
 
 This guide contains the steps I used to enable GPU passthrough on my hardware, however I have attempted to include alternative nVidia and Intel instructions where applicable.
 
